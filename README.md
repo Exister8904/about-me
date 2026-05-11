@@ -1,2 +1,3 @@
-# about-me
-My first GitHub project
+# About Me
+My name is **[Grayson 
+I like stuff
